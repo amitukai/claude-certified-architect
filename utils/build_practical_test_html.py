@@ -16,6 +16,7 @@ LANG_TITLES = {
     "it": "Claude Certified Architect \u2014 Test Pratico",
     "zh-tw": "Claude Certified Architect \u2014 \u6a21\u64ec\u6e2c\u9a57",
     "pt-br": "Claude Certified Architect \u2014 Teste Prático",
+    "es": "Claude Certified Architect \u2014 Test Práctico",
 }
 
 def get_questions(lang):

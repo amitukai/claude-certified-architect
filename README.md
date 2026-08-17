@@ -77,6 +77,7 @@ This repository contains study materials for the **Claude Certified Architect â€
 - **Russian**: [`practical_test_ru.apkg`](./anki/practical_test_ru.apkg)
 - **Chinese**: [`practical_test_zh.apkg`](./anki/practical_test_zh.apkg)
 - **Portuguese (Brazil)**: [`practical_test_pt-br.apkg`](./anki/practical_test_pt-br.apkg)
+- **Spanish**: [`practical_test_es.apkg`](./anki/practical_test_es.apkg)
 
 ## Video Materials
 - **English**: [`NotebookML`](https://notebooklm.google.com/notebook/4ffc65a7-5395-4a36-8832-23ed9b57f369)
